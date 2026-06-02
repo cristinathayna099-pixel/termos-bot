@@ -1,2 +1,2 @@
-# termos-bot
-Termos de serviço do Torajo Bot. 
+# privacidade-bot
+Termos de privacidade do Torajo Bot. 
